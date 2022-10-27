@@ -1,2 +1,3 @@
 Marco editó este archivo.
 archivo modificiado
+Marco agregó otra línea.
